@@ -32,7 +32,13 @@ This was pure coordination failure. Dock workers opposed it (job losses). Ports 
 
 ## The Invariant Psychology: Why Humans Resist "Obviously Better"
 
-Across electricity, xerography, and container shipping, the same psychological forces operated:
+You're right that something is **invariant**. Here's the pattern that governs adoption across all technologies:
+
+\$\text{Adoption Rate} \propto \frac{\text{Visible Benefits} \times \text{Compatibility}}{\text{Switching Costs} \times \text{Uncertainty}}\$
+
+This formula captures why "obviously better" technologies still face resistance. High switching costs or uncertainty can overwhelm even massive benefits. For electricity, the benefits were huge but switching costs (factory redesign) and uncertainty (new management methods) created decades of delay. For Chainlink, visible benefits are growing (NYSE, CME) and compatibility is improving (ETFs, institutional custody), while switching costs remain high but uncertainty is decreasing as major institutions validate the technology.
+
+Across electricity, xerography, and container shipping, the same psychological forces operated behind this formula:
 
 **Loss aversion dominates:** People overweight potential losses versus equivalent gains. Factory owners focused on "what if electricity infrastructure fails?" rather than productivity gains. CFOs today focus on "what if blockchain has a bug?" rather than settlement efficiency improvements.
 
