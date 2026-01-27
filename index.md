@@ -5,3 +5,4 @@
 ~~~
 
 - [financial-history](tag/financial-history)
+- [economics](tag/economics)
