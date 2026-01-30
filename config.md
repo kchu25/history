@@ -18,7 +18,7 @@ website_descr = "Shane Chu's website"
 website_url   = "https://kchu25.github.io/"
 +++
 
-@def prepath="rust"
+@def prepath="history"
 <!-- @def div_content = "container" -->
 
 <!--
