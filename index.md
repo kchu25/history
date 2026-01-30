@@ -6,3 +6,4 @@
 
 - [financial-history](tag/financial-history)
 - [economics](tag/economics)
+- [rust-basics](tag/rust-basics)
